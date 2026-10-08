@@ -1,0 +1,13 @@
+.DS_Store
+
+# Java
+*.class
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Obsidian
+.obsidian/

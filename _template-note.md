@@ -4,7 +4,7 @@
 
 ---
 
-# YYYY-MM-DD · Day N
+# MM-DD · Day N
 
 ## 今天学了/做了什么
 
